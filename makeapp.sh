@@ -5,6 +5,10 @@
 #
 # Distributed under terms of the MIT license.
 #
+fromDir=`pwd`
+export ipappDir=$(cd `dirname $0`; pwd)
+echo "app发布目录：$ipappDir"
+cd $ipappDir
 ## 创建目录
 export ipaName=$1
 ##需要安装gem install chinese_pinyin
@@ -23,26 +27,6 @@ source ../catinfo.sh $ipaFileURL
 source ../catreadme.sh $ipaName_pinyin
 #生产二维码:需要安装：pip3 install myqr
 myqr $ipaBaseURL/install.html -n icon.png  -d ./
-## 部署 deploy
-
-deploy()
-{
-    cd ../
-    git remote -v
-
-    git add .
-
-    msg="rebuilding site `date`"
-
-    if [ $# -eq 1 ]
-    then msg="$1"
-    fi
-
-    git commit -m "$msg"
-
-    # push source to github
-
-    git push origin HEAD:master
-}
-
-deploy
+source ../deploy.sh
+# 返回原目录
+cd $fromDir

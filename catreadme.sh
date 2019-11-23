@@ -11,7 +11,9 @@ appicondir=$1
 cat << EOF >> ../README.md
 ### $ipaName
 扫描二维码安装
+
 ![](/$appicondir/icon.png)
+
 [更多安装方式](/$appicondir/index.html)
 
 EOF
