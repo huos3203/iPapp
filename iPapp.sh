@@ -13,7 +13,7 @@ cd $ipappDir
 export ipaName=$1
 export appName=$2
 #build 目录
-export ipaBaseURL=https://huos3203.github.io/iPapp/$ipaName
+export ipaBaseURL=https://it-boyer.github.io/iPapp/$ipaName
 #ipaURL 绝对路径
 ipaFileURL=$ipaBaseURL/${ipaName}.ipa
 

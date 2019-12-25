@@ -16,7 +16,7 @@ export ipaName=$1
 pinyin=$(ch2py $ipaName)
 ipaName_pinyin=$(echo $pinyin | tr -d '[ \t]')
 ipaFileURL=$2
-export ipaBaseURL=https://huos3203.github.io/iPapp/$ipaName_pinyin
+export ipaBaseURL=https://it-boyer.github.io/iPapp/$ipaName_pinyin
 mkdir $ipaName_pinyin
 cd $ipaName_pinyin
 ## 在目录中新建install.html
