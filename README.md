@@ -25,38 +25,3 @@ iPhone通过扫描二维码自动安装ipa包
 
 [更多安装方式](/Blink/index.html)
 
-### Blink
-扫描二维码安装
-
-![](/Blink/icon.png)
-
-[更多安装方式](/Blink/index.html)
-
-### Blink
-扫描二维码安装
-
-![](/Blink/icon.png)
-
-[更多安装方式](/Blink/index.html)
-
-### Blink
-扫描二维码安装
-
-![](/Blink/icon.png)
-
-[更多安装方式](/Blink/index.html)
-
-### Blink
-扫描二维码安装
-
-![](/Blink/icon.png)
-
-[更多安装方式](/Blink/index.html)
-
-### Blink
-扫描二维码安装
-
-![](/Blink/icon.png)
-
-[更多安装方式](/Blink/index.html)
-
