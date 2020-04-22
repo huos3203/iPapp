@@ -6,8 +6,16 @@ iPhone通过扫描二维码自动安装ipa包
 
 ## 使用
 ```
-./makeapp.sh 精确治理 http://ipa.fileserver.iuoooo.com:8080/ipafile/4BA3617D-DF36-4298-A66F-66FCC388E4AD_onlineRetailers.ipa/JHUniversalApp.ipa
+iPapp ipaPath ipafileUrl
+
 ```
+> ipaPath:必填
+    1. 当已知ipafileUrl时，仅提供APP名称。
+    2. 当是本地ipa包时，只需提供ipa路径，操作过程：先将ipa包拷贝到iPapp git库中，发布到github-page上。
+功能:
+    创建APP四个文件：intall.html index.html info.plist
+    更新：readme.md
+
 
 ## 发布记录
 
@@ -24,4 +32,24 @@ iPhone通过扫描二维码自动安装ipa包
 ![](/Blink/icon.png)
 
 [更多安装方式](/Blink/index.html)
+
+### 
+扫描二维码安装
+
+![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
+
+[更多安装方式](duanshipin/index.html)
+### 短视频
+扫描二维码安装
+
+![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
+
+[更多安装方式](duanshipin/index.html)
+
+### 短视频
+扫描二维码安装
+
+![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
+
+[更多安装方式](duanshipin/index.html)
 

@@ -8,7 +8,6 @@
 ## 部署 deploy
 deploy()
 {
-    cd ../
     git remote -v
 
     git add .
