@@ -38,7 +38,7 @@ iPapp()
     ## 初始化变量
     githubURL=https://it-boyer.github.io/iPapp/$IPADir
     InfoURL=$githubURL/info.plist
-    ICONURL=$githubURL/icon.png
+    ICONURL=$IPADir/icon.png
 
 
     if [ "$FILEURL" = "" ]; then
