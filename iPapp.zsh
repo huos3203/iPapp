@@ -36,19 +36,19 @@ iPapp()
     fi
 
     ## 初始化变量
-    githubURL=https://it-boyer.github.io/iPapp/$IPADir
-    InfoURL=$githubURL/info.plist
-    ICONURL=$githubURL/icon.png
-    index=$githubURL/index.html
+    githubPage=https://it-boyer.github.io/iPapp/$IPADir
+    InfoURL=$githubPage/info.plist
+    ICONURL=$githubPage/icon.png
+    index=$githubPage/index.html
 
 
     if [ "$FILEURL" = "" ]; then
         ## 在没有指定ipaUrl，指向github目录文件
-        FILEURL=$githubURL/$IPAName.ipa
+        FILEURL=$githubPage/$IPAName.ipa
     fi
 
     #生产二维码:需要安装：pip3 install myqr
-    myqr $githubURL/install.html -n icon.png  -d $IPADir
+    myqr $githubPage/install.html -n icon.png  -d $IPADir
 
 ## 创建 install.html
 cat << EOF > $IPADir/install.html

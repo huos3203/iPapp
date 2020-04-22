@@ -32,41 +32,6 @@ iPapp ipaPath ipafileUrl
 ![](/Blink/icon.png)
 
 [更多安装方式](/Blink/index.html)
-
-### 
-扫描二维码安装
-
-![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
-
-[更多安装方式](duanshipin/index.html)
-### 短视频
-扫描二维码安装
-
-![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
-
-[更多安装方式](duanshipin/index.html)
-
-### 短视频
-扫描二维码安装
-
-![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
-
-[更多安装方式](duanshipin/index.html)
-
-### 短视频
-扫描二维码安装
-
-![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
-
-[更多安装方式](duanshipin/index.html)
-
-### 短视频
-扫描二维码安装
-
-![](https://it-boyer.github.io/iPapp/duanshipin/icon.png)
-
-[更多安装方式](duanshipin/index.html)
-
 ### 短视频
 扫描二维码安装
 
