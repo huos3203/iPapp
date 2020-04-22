@@ -67,3 +67,10 @@ iPapp ipaPath ipafileUrl
 
 [更多安装方式](duanshipin/index.html)
 
+### 短视频
+扫描二维码安装
+
+![](duanshipin/icon.png)
+
+[更多安装方式](https://it-boyer.github.io/iPapp/duanshipin/index.html)
+

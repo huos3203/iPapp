@@ -38,7 +38,8 @@ iPapp()
     ## 初始化变量
     githubURL=https://it-boyer.github.io/iPapp/$IPADir
     InfoURL=$githubURL/info.plist
-    ICONURL=$IPADir/icon.png
+    ICONURL=$githubURL/icon.png
+    index=$githubURL/index.html
 
 
     if [ "$FILEURL" = "" ]; then
@@ -156,9 +157,9 @@ cat << EOF >> README.md
 ### $IPAName
 扫描二维码安装
 
-![]($ICONURL)
+![]($IPADir/icon.png)
 
-[更多安装方式]($IPADir/index.html)
+[更多安装方式]($index)
 
 EOF
 
