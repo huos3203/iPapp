@@ -39,3 +39,10 @@ iPapp ipaPath ipafileUrl
 
 [更多安装方式](https://it-boyer.github.io/iPapp/duanshipin/index.html)
 
+### 青青
+扫描二维码安装
+
+![](qingqing/icon.png)
+
+[更多安装方式](https://it-boyer.github.io/iPapp/qingqing/index.html)
+
