@@ -19,37 +19,16 @@ iPapp ipaPath ipafileUrl
 
 ## 发布记录
 
-### 精确治理
-扫描二维码安装
-
-![](/jingquezhili/icon.png)
-
-[更多安装方式](/jingquezhili/index.html)
-
 ### Blink
 扫描二维码安装
 
 ![](/Blink/icon.png)
 
 [更多安装方式](/Blink/index.html)
-### 短视频
+### T短视频
 扫描二维码安装
 
-![](duanshipin/icon.png)
+![](Tduanshipin/icon.png)
 
-[更多安装方式](https://it-boyer.github.io/iPapp/duanshipin/index.html)
-
-### 青青
-扫描二维码安装
-
-![](qingqing/icon.png)
-
-[更多安装方式](https://it-boyer.github.io/iPapp/qingqing/index.html)
-
-### 精确治理
-扫描二维码安装
-
-![](jingquezhili/icon.png)
-
-[更多安装方式](https://it-boyer.github.io/iPapp/jingquezhili/index.html)
+[更多安装方式](https://it-boyer.github.io/iPapp/Tduanshipin/index.html)
 
