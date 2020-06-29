@@ -39,3 +39,10 @@ iPapp ipaPath ipafileUrl
 
 [更多安装方式](https://it-boyer.github.io/iPapp/jingquezhili/index.html)
 
+### 精确治理
+扫描二维码安装
+
+![](jingquezhili/icon.png)
+
+[更多安装方式](https://it-boyer.github.io/iPapp/jingquezhili/index.html)
+
